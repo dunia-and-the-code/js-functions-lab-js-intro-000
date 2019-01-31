@@ -7,8 +7,6 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`;
 }
 
-console.log(name(you));
-
 function happyHolidaysTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`;
 }
