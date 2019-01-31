@@ -17,5 +17,4 @@ name("you");
 function holidayCountdown(days, holiday) {
   return `It's ${days} days until ${holiday}!`;
 }
-days(20);
-holiday("Mother's Day");
+
