@@ -6,7 +6,7 @@ function happyHolidays(string) {
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`;
 }
-call
+callHappyHolidaysTo('you');
 
 function happyHolidaysTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`;
