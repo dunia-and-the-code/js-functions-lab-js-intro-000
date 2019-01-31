@@ -17,4 +17,4 @@ function holidayCountdown(holiday, days) {
 
 name("you");
 days(20);
-holiday(
+holiday("Mother's Day");
